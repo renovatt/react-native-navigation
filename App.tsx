@@ -1,11 +1,14 @@
-import Routers from './src/routes'
+import 'react-native-gesture-handler'
 import { StatusBar } from 'expo-status-bar'
+import { Routes } from './src/routers'
+import Header from './src/components/Header'
 
 export default function App() {
   return (
     <>
       <StatusBar style="dark" />
-      <Routers />
+      <Header />
+      <Routes />
     </>
   )
 }
