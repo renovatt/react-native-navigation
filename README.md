@@ -9,11 +9,11 @@
 ### Primeiros passos no [React Native](https://reactnative.dev/), aplicando simples exemplos usando os três tipos de navagações em aninhamento, [Tab Navigation](https://reactnavigation.org/docs/tab-based-navigation), [Drawer Navigation](https://reactnavigation.org/docs/drawer-based-navigation), [Stack Navigation](https://reactnavigation.org/docs/hello-react-navigation).
 
 ## Layout mobile
-![screen 1](./assets/screen-1.jpeg)
-![screen 2](./assets/screen-2.jpeg)
-![screen 3](./assets/screen-3.jpeg)
-![screen 4](./assets/screen-4.jpeg)
-![screen 4](./assets/screen-5.jpeg)
+<img src="./assets/screen-1.jpeg" alt="screen 1" width="200" />
+<img src="./assets/screen-2.jpeg" alt="screen 2" width="200" />
+<img src="./assets/screen-3.jpeg" alt="screen 3" width="200" />
+<img src="./assets/screen-4.jpeg" alt="screen 4" width="200" />
+<img src="./assets/screen-5.jpeg" alt="screen 5" width="200" />
 
 ## 🛠️ Tecnologias
 
